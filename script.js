@@ -1,4 +1,4 @@
 function photo1() {
-    alert('Good luck in your exams!');
+    alert('YOU ARE AN INSPIRATION TO US!');
   }
   
